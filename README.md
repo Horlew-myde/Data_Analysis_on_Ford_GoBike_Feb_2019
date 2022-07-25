@@ -52,5 +52,5 @@ The following Python library was utilised for this:
 
 ######################################################################################################################################
 Access the slides by running the following command on terminal
-```
+`
 jupyter nbconvert slide_deck.ipynb --to slides --post serve --template output_toggle
